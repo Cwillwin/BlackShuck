@@ -1,2 +1,2 @@
 # BlackShuck
-A full-featured penetration testing toolkit for web applications.
+A full-featured penetration testing toolkit for web applications.# BlackShuck
