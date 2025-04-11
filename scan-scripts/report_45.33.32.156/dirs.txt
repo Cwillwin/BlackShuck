@@ -1,0 +1,4 @@
+/images              [36m (Status: 301)[0m [Size: 312][34m [--> http://45.33.32.156/images/][0m
+/index               [32m (Status: 200)[0m [Size: 6974]
+/shared              [36m (Status: 301)[0m [Size: 312][34m [--> http://45.33.32.156/shared/][0m
+/server-status       [33m (Status: 403)[0m [Size: 292]

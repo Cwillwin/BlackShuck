@@ -1,0 +1,1 @@
+http://45.33.32.156/index.php?id=1 (GET)  # /usr/bin/sqlmap -u 45.33.32.156/index.php?id=1 --batch --crawl=1 --level=2 --risk=2 --output-dir=report_45.33.32.156/sqlmap
